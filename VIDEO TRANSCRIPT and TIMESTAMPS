@@ -1,0 +1,24 @@
+00:00 - B1.2 (Introduction to my parts of the code / how our group divided the code)
+  - stats
+  - super power
+  - game base code (action loop)
+  - stage 1, 7, 10
+
+1:00 - A1.1 (declaring and modifying variables)
+  -stats variables
+  - modification example
+  
+2:10 - A2.2 (Conditional loops)
+  - input/options
+  - loop breaks after desired output
+  - loop back to start if player response mistyped
+  
+3:27 - A3.1 (Existing sub-programs)
+  - declaring new variables for final boss health
+  - modifying new variable based on value of modified power variable (as power stat accumulates)
+  - printing existing values in f-strings to player
+  
+4:38 - My favourite parts of the code
+  - jeffrey_saved variable to determine future outcomes
+  - ending 1 and ending 2 conditional to past player choices
+  - outcome branches made with loops and if-statements to make the game more interactive/interesting
